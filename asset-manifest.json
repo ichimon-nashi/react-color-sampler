@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-sampler/static/css/main.ac79cf12.css",
+    "main.js": "/react-color-sampler/static/js/main.139d130e.js",
+    "index.html": "/react-color-sampler/index.html",
+    "main.ac79cf12.css.map": "/react-color-sampler/static/css/main.ac79cf12.css.map",
+    "main.139d130e.js.map": "/react-color-sampler/static/js/main.139d130e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac79cf12.css",
+    "static/js/main.139d130e.js"
+  ]
+}
